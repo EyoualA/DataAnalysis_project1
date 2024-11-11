@@ -4,15 +4,17 @@
 
 <h2>👨‍💻 Working as a Software Developer :</h2>
 
-- <b>Data Engineering summary</b>
-  - Over 5+ years of professional IT experience with  Years of Big Data Hadoop Ecosystems experience in ingestion, storage, querying, processing, and analysis of big data.
-  - Experience with leveraging Hadoop ecosystem components including Pig and Hive for data analysis, Sqoop for data migration, Oozie for scheduling and HBase as a NoSQL data store.
-  - Hands on Experience in AWS EC2, S3, Redshift, EMR, RDS, Glue, Dynamo DB.
-- <b>Involved in Extraction, Transformation, and Loading (ETL) of data from multiple sources like Flat files, XML files, and Databases.</b>
-- <b>Optimizing existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair RDD's.</b>
-- <b>Hands-on experience with Informatica power center and power exchange in integrating with different applications and relational databases.</b>
-- <b>Manage all CM tools (JIRA, Confluence, Maven, Jenkins, Git, GitHub, Visual Studio) and their usage / process ensuring traceability, repeatability, quality, and support.</b>
-
+- <b>Business Analyst summary</b>
+  -Insightful Business Analyst known high productivity and eﬀicient task completion. Possess 
+specialized skills in data analysis, process improvement, and project management. Excel in 
+critical thinking, communication, and problem-solving to deliver eﬀective solutions. 
+Committed to leveraging these abilities for success in challenging business environments. 
+SSIS Developer with background in designing, developing and deploying data extraction, 
+transformation, and load (ETL) processes. Strong understanding of SQL Server Integration 
+Services (SSIS), SQL Server Reporting Services (SSRS), and SQL Server Analysis Services (SSAS). 
+Skills include troubleshooting, performance tuning, implementation of security measures and 
+database design. Previous work resulted in streamlined data processing procedures and 
+enhanced operational eﬀiciency
 <h2>EDUCATION</h2>
 
 - <b>Master’s in computer science, California University of Management and Sciences, Anaheim, California –2015</b>
