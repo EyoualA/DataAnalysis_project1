@@ -5,7 +5,7 @@
 <h2>👨‍💻 Working as a Software Developer :</h2>
 
 - <b>Data Engineering summary</b>
-  - Over 11+ years of professional IT experience with 9 Years of Big Data Hadoop Ecosystems experience in ingestion, storage, querying, processing, and analysis of big data.
+  - Over 5+ years of professional IT experience with  Years of Big Data Hadoop Ecosystems experience in ingestion, storage, querying, processing, and analysis of big data.
   - Experience with leveraging Hadoop ecosystem components including Pig and Hive for data analysis, Sqoop for data migration, Oozie for scheduling and HBase as a NoSQL data store.
   - Hands on Experience in AWS EC2, S3, Redshift, EMR, RDS, Glue, Dynamo DB.
 - <b>Involved in Extraction, Transformation, and Loading (ETL) of data from multiple sources like Flat files, XML files, and Databases.</b>
