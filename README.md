@@ -37,17 +37,17 @@ Saint Mary's University, MD</b>
 
 -11/2020 - 07/2023
 SSIS Developer, Bank Of America, Charlotte, North Carolina
-•  Developed ETL packages for data loading from various sources such as flat files, XML files and 
+- Developed ETL packages for data loading from various sources such as flat files, XML files and 
 Oracle databases into the Data Warehouse using SSIS.
-•  Configured error handling for all SSIS packages by establishing connection managers, event 
+- Configured error handling for all SSIS packages by establishing connection managers, event 
 handlers and logging to track package execution status.
-•  Created complex SSIS packages with multiple transformations such as derived columns, 
+- Created complex SSIS packages with multiple transformations such as derived columns, 
 lookups, conditional splits, script tasks and execute SQL tasks.
-•  Optimized existing SSIS packages by performing performance tuning activities like reducing 
+-  Optimized existing SSIS packages by performing performance tuning activities like reducing 
 redundant operations, replacing Lookup and Merge Join with Hash Match.
-•  Collaborated with database administrators to design database objects including tables, 
+-  Collaborated with database administrators to design database objects including tables, 
 views, stored procedures and user-defined functions required for ETL process.
-•  Tested ETL processes thoroughly prior to deployment in production environment by writing 
+-  Tested ETL processes thoroughly prior to deployment in production environment by writing 
 test plans and executing unit tests.
 
 - [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2
