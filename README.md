@@ -23,12 +23,19 @@ Saint Mary's University, MD</b>
 
 <h2>PROJECT-1</h2>
 
-- <b>Worked with Spark and Scala mainly in framework exploration for transition from Hadoop/MapReduce to Spark.</b>
-- <b>Utilized AWS services, including EC2 and S3, to enhance system scalability and availability. </b>
+- 11/2020 - 07/2023 SSIS Developer, Bank Of America, Charlotte, North Carolina
 
-- <b>Deploying and configuring AWS services and resources, including EC2 instances, RDS databases, S3 buckets, Lambda functions, and more, based on project needs.</b>
+Developed ETL packages for data loading from various sources such as flat files, XML files and Oracle databases into the Data Warehouse using SSIS.
 
-- <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
+Configured error handling for all SSIS packages by establishing connection managers, event handlers and logging to track package execution status.
+
+Created complex SSIS packages with multiple transformations such as derived columns, lookups, conditional splits, script tasks and execute SQL tasks.
+
+Optimized existing SSIS packages by performing performance tuning activities like reducing redundant operations, replacing Lookup and Merge Join with Hash Match.
+
+Collaborated with database administrators to design database objects including tables, views, stored procedures and user-defined functions required for ETL process.
+
+Tested ETL processes thoroughly prior to deployment in production environment by writing test plans and executing unit tests.
   
   
 - https://github.com/EyoualA/DataAnalysis_project1/blob/main/Eyoual%20Asefa%20Excel%20-%20Project1%20(1).xlsx
