@@ -31,18 +31,26 @@ Saint Mary's University, MD</b>
 - <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
   
   
-- [My Data EXCEL Project](https://github.com/sukumar8455/Project_1/tree/main)
+- https://github.com/EyoualA/DataAnalysis_project1/blob/main/Eyoual%20Asefa%20Excel%20-%20Project1%20(1).xlsx
 
 <h2>PROJECT-2</h2>
 
-- <b>Developed models using ELT Data Build Tool (DBT) to transform the data that is already loaded in Snowflake warehouses</b>
-- <b>Responsible for building the datalike in Amazon AWS, ingesting structured shipment and master data from Azure Service Bus using the AWS API Gateway, Lambda, and Kinesis Firehose into s3 buckets.</b>
+-11/2020 - 07/2023
+SSIS Developer, Bank Of America, Charlotte, North Carolina
+•  Developed ETL packages for data loading from various sources such as flat files, XML files and 
+Oracle databases into the Data Warehouse using SSIS.
+•  Configured error handling for all SSIS packages by establishing connection managers, event 
+handlers and logging to track package execution status.
+•  Created complex SSIS packages with multiple transformations such as derived columns, 
+lookups, conditional splits, script tasks and execute SQL tasks.
+•  Optimized existing SSIS packages by performing performance tuning activities like reducing 
+redundant operations, replacing Lookup and Merge Join with Hash Match.
+•  Collaborated with database administrators to design database objects including tables, 
+views, stored procedures and user-defined functions required for ETL process.
+•  Tested ETL processes thoroughly prior to deployment in production environment by writing 
+test plans and executing unit tests.
 
-- <b>Deploying and configuring AWS services and resources, including EC2 instances, RDS databases, S3 buckets, Lambda functions, and more, based on project needs.</b>
-
-- <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
-    
-- [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2)
+- [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2
 
 - <kbd><img width="397" alt="image" src="https://github.com/sukumar8455/project_2/blob/main/Excel_png.png"></kbd>
 
