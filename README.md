@@ -25,41 +25,39 @@ Saint Mary's University, MD</b>
 
 - 11/2020 - 07/2023 SSIS Developer, Bank Of America, Charlotte, North Carolina
 
-Developed ETL packages for data loading from various sources such as flat files, XML files and Oracle databases into the Data Warehouse using SSIS.
+- Developed ETL packages for data loading from various sources such as flat files, XML files and Oracle databases into the Data Warehouse using SSIS.
 
-Configured error handling for all SSIS packages by establishing connection managers, event handlers and logging to track package execution status.
+- Configured error handling for all SSIS packages by establishing connection managers, event handlers and logging to track package execution status.
 
-Created complex SSIS packages with multiple transformations such as derived columns, lookups, conditional splits, script tasks and execute SQL tasks.
+- Created complex SSIS packages with multiple transformations such as derived columns, lookups, conditional splits, script tasks and execute SQL tasks.
 
-Optimized existing SSIS packages by performing performance tuning activities like reducing redundant operations, replacing Lookup and Merge Join with Hash Match.
+- Optimized existing SSIS packages by performing performance tuning activities like reducing redundant operations, replacing Lookup and Merge Join with Hash Match.
 
-Collaborated with database administrators to design database objects including tables, views, stored procedures and user-defined functions required for ETL process.
+- Collaborated with database administrators to design database objects including tables, views, stored procedures and user-defined functions required for ETL process.
 
-Tested ETL processes thoroughly prior to deployment in production environment by writing test plans and executing unit tests.
+- Tested ETL processes thoroughly prior to deployment in production environment by writing test plans and executing unit tests.
   
   
 - https://github.com/EyoualA/DataAnalysis_project1/blob/main/Eyoual%20Asefa%20Excel%20-%20Project1%20(1).xlsx
 
 <h2>PROJECT-2</h2>
 
--11/2020 - 07/2023
-SSIS Developer, Bank Of America, Charlotte, North Carolina
-- Developed ETL packages for data loading from various sources such as flat files, XML files and 
-Oracle databases into the Data Warehouse using SSIS.
-- Configured error handling for all SSIS packages by establishing connection managers, event 
-handlers and logging to track package execution status.
-- Created complex SSIS packages with multiple transformations such as derived columns, 
-lookups, conditional splits, script tasks and execute SQL tasks.
--  Optimized existing SSIS packages by performing performance tuning activities like reducing 
-redundant operations, replacing Lookup and Merge Join with Hash Match.
--  Collaborated with database administrators to design database objects including tables, 
-views, stored procedures and user-defined functions required for ETL process.
--  Tested ETL processes thoroughly prior to deployment in production environment by writing 
-test plans and executing unit tests.
+-10/2019 - 10/2020
+Junior Developer, ThoughtCodes, Alexandria, VA
+Developed and tested software components to ensure quality, performance, and scalability.
+-  Analyzed customer requirements and designed solutions for complex problems.
+-  Created technical documentation for all development eﬀorts.
+-  Participated in the design of user interfaces, back-end systems, and databases.
+-  Implemented automated testing processes to improve product reliability.
+-  Performed unit tests to verify accuracy of code changes.
+-  Created database objects like tables, views, indexes and synonyms in Oracle 11g and 12c 
+databases.
+-  Optimized existing queries for better performance using SQL query tuning techniques.
+-  Designed complex reports using SQL Server Reporting Services.
 
-- [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2
+- [CLAIMS Data EXCEL Project](https://github.com/EyoualA/DataAnalysis_project1/blob/main/Eyoual%20Asefa%20Excel%20-%20Project1%20(1).xlsx
 
-- <kbd><img width="397" alt="image" src="https://github.com/sukumar8455/project_2/blob/main/Excel_png.png"></kbd>
+- 
 
 
 <h2> 🤳 Connect with me:</h2>
