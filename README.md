@@ -62,8 +62,8 @@ databases.
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" " />][[youtube](https://www.youtube.com/watch?v=0FH8JSTl71I)]
-[<img align=""  | Twitter" " />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" www.linkedin.com/in/eyouelasefa" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" " />][instagram]
+
+
+ | LinkedIn" www.linkedin.com/in/eyouelasefa" />][linkedin]
+
 
