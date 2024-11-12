@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Eyoual Asefa <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/EyoualAsefa/">SSIS DEVELOPER</a>, 
+<h1>Hi, I'm Eyoual Asefa <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/EyoualAsefa/">SSIS DATA ANALYST</a>, 
 
 
 <h2>👨‍💻 Working as a Data Analyst :</h2>
