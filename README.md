@@ -2,10 +2,10 @@
 <h1>Hi, I'm Eyoual Asefa <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/EyoualAsefa/">SSIS DEVELOPER</a>, 
 
 
-<h2>👨‍💻 Working as a Software Developer :</h2>
+<h2>👨‍💻 Working as a Data Analyst :</h2>
 
-- <b>Business Analyst summary</b>
-  -Insightful Business Analyst known high productivity and eﬀicient task completion. Possess 
+- <b>Data Analys summary</b>
+  -Insightful Data Analyst known high productivity and eﬀicient task completion. Possess 
 specialized skills in data analysis, process improvement, and project management. Excel in 
 critical thinking, communication, and problem-solving to deliver eﬀective solutions. 
 Committed to leveraging these abilities for success in challenging business environments. 
@@ -17,7 +17,8 @@ database design. Previous work resulted in streamlined data processing procedure
 enhanced operational eﬀiciency
 <h2>EDUCATION</h2>
 
-- <b>Master’s in computer science, California University of Management and Sciences, Anaheim, California –2015</b>
+- <b>Bachelor Of Arts, Management Information Systems
+Saint Mary's University, MD</b>
 - <b>Bachelor of Engineering in Computer Science, Jawaharlal Nehru Technological University, Hyderabad, India – 2008</b>
 
 <h2>PROJECT-1</h2>
